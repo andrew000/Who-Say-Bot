@@ -1,0 +1,6 @@
+TOKEN = ""
+ADMINS = (382182253,)  # Paste your id here
+DATABASE = ""
+
+MAX_LENGTH_NAME = 16
+MAX_LENGTH_SAY = 128
